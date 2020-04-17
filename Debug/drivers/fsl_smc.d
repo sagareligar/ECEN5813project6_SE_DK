@@ -1,34 +1,34 @@
 drivers/fsl_smc.o drivers/fsl_smc.d: ../drivers/fsl_smc.c \
  ../drivers/fsl_smc.h ../drivers/fsl_common.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/fsl_device_registers.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/MKL25Z4.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cm0plus.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cmInstr.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/cmsis_gcc.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cmFunc.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/system_MKL25Z4.h \
- C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/MKL25Z4_features.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/fsl_device_registers.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cm0plus.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cmInstr.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/cmsis_gcc.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cmFunc.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/system_MKL25Z4.h \
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4_features.h \
  ../drivers/fsl_clock.h ../drivers/fsl_flash.h
 
 ../drivers/fsl_smc.h:
 
 ../drivers/fsl_common.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/fsl_device_registers.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/fsl_device_registers.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/MKL25Z4.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cm0plus.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cm0plus.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cmInstr.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cmInstr.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/cmsis_gcc.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/cmsis_gcc.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/core_cmFunc.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/core_cmFunc.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/system_MKL25Z4.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/system_MKL25Z4.h:
 
-C:\Users\sagar\Documents\MCUXpressoIDE_11.1.0_3209\workspace\test_rtos_rtos_examples_freertos_hello\CMSIS/MKL25Z4_features.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4_features.h:
 
 ../drivers/fsl_clock.h:
 

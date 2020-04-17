@@ -38,7 +38,7 @@
 #include "fsl_device_registers.h"
 #include "fsl_debug_console.h"
 #include "board.h"
-
+#include "lookup.h"
 #include "pin_mux.h"
 /*******************************************************************************
  * Definitions
@@ -63,6 +63,7 @@ int main(void)
     BOARD_InitPins();
     BOARD_BootClockRUN();
     BOARD_InitDebugConsole();
+
     xTaskCreate(hello_task, "Hello_task", configMINIMAL_STACK_SIZE + 10, NULL, hello_task_PRIORITY, NULL);
     vTaskStartScheduler();
     for (;;)
@@ -76,6 +77,7 @@ static void hello_task(void *pvParameters)
 {
     for (;;)
     {
+    	dac_voltagevalue();
         PRINTF("Hello world.\r\n");
         vTaskSuspend(NULL);
     }

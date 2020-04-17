@@ -1,4 +1,4 @@
-source/main.o source/main.d: ../source/main.c \
+source/lookup.o source/lookup.d: ../source/lookup.c \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\freertos/FreeRTOS.h \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\source/FreeRTOSConfig.h \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\freertos/projdefs.h \
@@ -26,8 +26,8 @@ source/main.o source/main.d: ../source/main.c \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\board/board.h \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\board/clock_config.h \
  C:\Users\sagar\git\ECEN5813project6_SE_DK\drivers/fsl_gpio.h \
- ../source/lookup.h \
- C:\Users\sagar\git\ECEN5813project6_SE_DK\board/pin_mux.h
+ C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4.h \
+ ../source/lookup.h
 
 C:\Users\sagar\git\ECEN5813project6_SE_DK\freertos/FreeRTOS.h:
 
@@ -83,6 +83,6 @@ C:\Users\sagar\git\ECEN5813project6_SE_DK\board/clock_config.h:
 
 C:\Users\sagar\git\ECEN5813project6_SE_DK\drivers/fsl_gpio.h:
 
-../source/lookup.h:
+C:\Users\sagar\git\ECEN5813project6_SE_DK\CMSIS/MKL25Z4.h:
 
-C:\Users\sagar\git\ECEN5813project6_SE_DK\board/pin_mux.h:
+../source/lookup.h:
