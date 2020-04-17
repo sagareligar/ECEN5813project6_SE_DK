@@ -1,3 +1,7 @@
+# Folders
+.settings/
+/Debug/
+
 # Prerequisites
 *.d
 
@@ -49,10 +53,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# Folders
-.settings/
-/Debug/
 
 # Locally stored "Eclipse launch configurations"
 *.launch
