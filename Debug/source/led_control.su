@@ -1,0 +1,4 @@
+led_control.c:18:6:LED_init	24	static
+led_control.c:53:6:LED_off	16	static
+led_control.c:84:6:LED_on	16	static
+led_control.c:118:5:LED_flash	24	static

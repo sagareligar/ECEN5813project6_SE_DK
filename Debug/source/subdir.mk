@@ -4,17 +4,29 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../source/freertos_hello.c \
+../source/circ_buffer.c \
+../source/global_defines.c \
+../source/led_control.c \
+../source/logger.c \
+../source/main.c \
 ../source/mtb.c \
 ../source/semihost_hardfault.c 
 
 OBJS += \
-./source/freertos_hello.o \
+./source/circ_buffer.o \
+./source/global_defines.o \
+./source/led_control.o \
+./source/logger.o \
+./source/main.o \
 ./source/mtb.o \
 ./source/semihost_hardfault.o 
 
 C_DEPS += \
-./source/freertos_hello.d \
+./source/circ_buffer.d \
+./source/global_defines.d \
+./source/led_control.d \
+./source/logger.d \
+./source/main.d \
 ./source/mtb.d \
 ./source/semihost_hardfault.d 
 

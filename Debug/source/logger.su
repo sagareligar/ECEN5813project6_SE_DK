@@ -1,0 +1,8 @@
+logger.c:47:8:Log_timestamp	48	static
+logger.c:59:6:Log_enable	8	static
+logger.c:70:6:Log_disable	8	static
+logger.c:80:6:Log_level	16	static
+logger.c:101:6:Log_status	16	static
+logger.c:116:5:Log_data	32	static
+logger.c:136:5:Log_string	40	static
+logger.c:162:5:Log_integer	40	static
