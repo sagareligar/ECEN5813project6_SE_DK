@@ -6,7 +6,11 @@
  * Generated linker script file for MKL25Z128xxx4
  * Created from library.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
+<<<<<<< HEAD
  * MCUXpresso IDE v11.1.0 [Build 3209] [2019-12-12] on Apr 16, 2020 10:27:19 PM
+=======
+ * MCUXpresso IDE v11.1.0 [Build 3209] [2019-12-12] on Apr 16, 2020 8:59:09 PM
+>>>>>>> branch 'master' of https://github.com/sagareligar/ECEN5813project6_SE_DK.git
  */
 
 GROUP (
